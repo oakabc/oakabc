@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oakabc
-- 👀 I’m interested in Knowledge Management, Education Science, Experiential Learning, Programming, Java.
+- 👀 I’m interested in Knowledge Management, Education Science, Experiential Learning, Programming, and Java.
 - 🌱 I’m currently learning React, Web Development, AI
-- 💞️ I’m looking to collaborate on all of you
+- 💞️ I’m looking to collaborate with all of you
 - 📫 How to reach me just search my username :)
 
 <!---
